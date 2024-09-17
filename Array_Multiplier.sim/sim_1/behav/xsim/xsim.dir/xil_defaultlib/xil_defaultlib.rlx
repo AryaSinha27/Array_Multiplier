@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/arya2/Array_Multiplier/Array_Multiplier.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sim_1/new/TB.v,1726569254,verilog,,,,TB,,,,,,,,
+C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sources_1/new/array_multiplier.v,1726568682,verilog,,C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sources_1/new/full_adder.v,,array_multiplier,,,,,,,,
+C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sources_1/new/full_adder.v,1726567362,verilog,,C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sources_1/new/half_adder.v,,full_adder,,,,,,,,
+C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sources_1/new/half_adder.v,1726569267,verilog,,C:/Users/arya2/Array_Multiplier/Array_Multiplier.srcs/sim_1/new/TB.v,,half_adder,,,,,,,,
